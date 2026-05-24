@@ -1,0 +1,13 @@
+# Synthetic OCI credentials for scanner validation. These are fake.
+[DEFAULT]
+user=ocid1.user.oc1..nrzs233sm4wxizltoruw4zznge2c64lvmj3gk3bnonswo3lfnz2g
+fingerprint=n5:rw:so:tt:nr:zs:23:3s:m4:wx:iz:lt:or:uw:4z:zn
+tenancy=ocid1.tenancy.oc1..n5rwsottnrzs233sm4wxizltoruw4zznge2c64lvmj3gk3bnonsw
+region=us-ashburn-1
+key_file=./oci_api_key.pem
+
+# Synthetic OCI lab values. Invalid credentials.
+OCI_CLI_USER=ocid1.user.oc1..nrzs233sm4wxizltoruw4zznge2c64lvmj3gk3bnonswo3lfnz2g
+OCI_CLI_TENANCY=ocid1.tenancy.oc1..n5rwsottnrzs233sm4wxizltoruw4zznge2c64lvmj3gk3bnonsw
+OCI_CLI_FINGERPRINT=n5:rw:so:tt:nr:zs:23:3s:m4:wx:iz:lt:or:uw:4z:zn
+OCI_AUTH_TOKEN=oci_n5rwsottnrzs233sm4wxizltoruw4zznge2c64lv
